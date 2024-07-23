@@ -29,8 +29,8 @@ Note: The app currently supports Gmail and requires Python 3.x.
 
 <img src="Screenshot 2024-07-23 134533.png" alt="1">
 
-<img src="Screenshot 2024-07-23 134548.png." alt="2">
+<img src="Screenshot 2024-07-23 134548.png" alt="2">
 
-<img src="Screenshot 2024-07-23 134601.png." alt="3">
+<img src="Screenshot 2024-07-23 134601.png" alt="3">
 
 
